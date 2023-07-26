@@ -86,7 +86,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-6 col-lg-3">
-                            <div class="logo"><a href="index.html"><img src="images/logo/logo.png" alt="JobHere"></a></div>
+                            <div class="logo"><a href="index.php"><img src="images/logo/logo.png" alt="JobHere"></a></div>
                         </div>
                         <div class="col-sm-6 col-lg-9">
                             <div class="pull-right header-menu">
@@ -118,11 +118,11 @@
                                                 <li><a href="contact.html">Contact Us</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="blog.html">Blog</a>
+                                        <!-- <li><a href="blog.html">Blog</a>
                                             <ul class="dropdown">
                                                 <li><a href="blog-details.html">Blog Details</a></li>
                                             </ul>
-                                        </li>
+                                        </li> -->
                                         <li><a href="contact.html">Contact</a></li>
                                     </ul>
                                 </nav>
@@ -142,12 +142,12 @@
                                     <div class="mobile-menu">
                                         <nav id="dropdown">
                                             <ul>
-                                                <li><a href="index.html">HOME</a>
-                                                    <ul>
+                                                <li><a href="index.php">HOME</a>
+                                                    <!-- <ul>
                                                         <li><a href="index.html">Home Version One</a></li>
                                                         <li><a href="index-2.html">Home Version Two</a></li>
                                                         <li><a href="index-3.html">Home Box Layout</a></li>
-                                                    </ul>
+                                                    </ul> -->
                                                 </li>
                                                 <li><a href="job-board.html">Job</a>
                                                     <ul class="sub-menu">
