@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Home Box Layout || JobHere</title>
+    <title>Home || JobHere</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -96,11 +96,11 @@
                                 <nav id="primary-menu">
                                     <ul class="main-menu text-right">
                                         <li><a href="index.html">Home</a>
-                                            <ul class="dropdown">
+                                            <!-- <ul class="dropdown">
                                                 <li><a href="index.html">Home Version One</a></li>
                                                 <li><a href="index-2.html">Home Version Two</a></li>
                                                 <li><a href="index-3.html">Home Box Layout</a></li>
-                                            </ul>
+                                            </ul> -->
                                         </li>
                                         <li><a href="job-board.html">Jobs</a>
                                             <ul class="dropdown">
@@ -121,11 +121,11 @@
                                                 <li><a href="contact.html">Contact Us</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="blog.html">Blog</a>
+                                        <!-- <li><a href="blog.html">Blog</a>
                                             <ul class="dropdown">
                                                 <li><a href="blog-details.html">Blog Details</a></li>
                                             </ul>
-                                        </li>
+                                        </li> -->
                                         <li><a href="contact.html">Contact</a></li>
                                     </ul>
                                 </nav>
@@ -148,11 +148,11 @@
                                     <nav id="dropdown">
                                         <ul>
                                             <li><a href="index.html">HOME</a>
-                                                <ul>
+                                                <!-- <ul>
                                                     <li><a href="index.html">Home Version One</a></li>
                                                     <li><a href="index-2.html">Home Version Two</a></li>
                                                     <li><a href="index-3.html">Home Box Layout</a></li>
-                                                </ul>
+                                                </ul> -->
                                             </li>
                                             <li><a href="job-board.html">Job</a>
                                                 <ul class="sub-menu">
@@ -173,11 +173,11 @@
                                                     <li><a href="contact.html">Contact</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="blog.html">Blog</a>
+                                            <!-- <li><a href="blog.html">Blog</a>
                                                 <ul class="sub-menu">
                                                     <li><a href="blog-details.html">Blog Details</a></li>
                                                 </ul>
-                                            </li>
+                                            </li> -->
                                             <li><a href="contact.html">Contact</a></li>
                                         </ul>
                                     </nav>
