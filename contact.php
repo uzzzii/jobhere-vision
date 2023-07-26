@@ -90,7 +90,7 @@
                             <div class="pull-right header-menu">
                                 <nav id="primary-menu">
                                     <ul class="main-menu text-right">
-                                        <li><a href="index.html">Home</a>
+                                        <li><a href="index.php">Home</a>
                                             <ul class="dropdown">
                                                 <li><a href="index.html">Home Version One</a></li>
                                                 <li><a href="index-2.html">Home Version Two</a></li>
