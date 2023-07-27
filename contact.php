@@ -1,7 +1,7 @@
-<!doctype php>
-<php class="no-js" lang="en">
+<!doctype html>
+<html class="no-js" lang="en">
     
-<!-- Mirrored from preview.hasthemes.com/jobhere-v1/contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 May 2023 06:44:06 GMT -->
+<!-- Mirrored from preview.hasthemes.com/jobhere-v1/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 May 2023 06:44:06 GMT -->
 <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
