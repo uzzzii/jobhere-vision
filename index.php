@@ -88,7 +88,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-6 col-lg-3">
-                            <div class="logo"><a href="index.html"><img src="images/logo/logo.png" alt="JobHere"></a>
+                            <div class="logo"><a href="index.php"><img src="images/logo/logo.png" alt="JobHere"></a>
                             </div>
                         </div>
                         <div class="col-sm-6 col-lg-9">
