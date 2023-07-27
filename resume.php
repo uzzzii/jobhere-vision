@@ -1,11 +1,11 @@
-<!doctype html>
-<html class="no-js" lang="en">
+<!doctype php>
+<php class="no-js" lang="en">
     
-<!-- Mirrored from preview.hasthemes.com/jobhere-v1/job-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 May 2023 06:43:58 GMT -->
+<!-- Mirrored from preview.hasthemes.com/jobhere-v1/resume.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 May 2023 06:44:03 GMT -->
 <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Job Details || JobHere</title>
+        <title>Resume || JobHere</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
@@ -84,44 +84,44 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-6 col-lg-3">
-                            <div class="logo"><a href="index.html"><img src="images/logo/logo.png" alt="JobHere"></a></div>
+                            <div class="logo"><a href="index.php"><img src="images/logo/logo.png" alt="JobHere"></a></div>
                         </div>
                         <div class="col-sm-6 col-lg-9">
                             <div class="pull-right header-menu">
                                 <nav id="primary-menu">
                                     <ul class="main-menu text-right">
-                                        <li><a href="index.html">Home</a>
+                                        <li><a href="index.php">Home</a>
                                             <!-- <ul class="dropdown">
-                                                <li><a href="index.html">Home Version One</a></li>
-                                                <li><a href="index-2.html">Home Version Two</a></li>
-                                                <li><a href="index-3.html">Home Box Layout</a></li>
-                                            </ul> -->
-                                        </li>
-                                        <li><a href="job-board.html">Jobs</a>
+                                                <li><a href="index.php">Home Version One</a></li>
+                                                <li><a href="index-2.php">Home Version Two</a></li>
+                                                <li><a href="index-3.php">Home Box Layout</a></li>
+                                            </ul>
+                                        </li> -->
+                                        <li><a href="job-board.php">Jobs</a>
                                             <ul class="dropdown">
-                                                <li><a href="single-job-post.html">Single Job</a></li>
-                                                <li><a href="job-details.html">Job Details</a></li>
+                                                <li><a href="single-job-post.php">Single Job</a></li>
+                                                <li><a href="job-details.php">Job Details</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="about.html">About</a></li>
+                                        <li><a href="about.php">About</a></li>
                                         <li><a href="#">Pages</a>
                                             <ul class="dropdown">
-                                                <li><a href="job-board.html">Job Board</a></li>
-                                                <li><a href="single-job-post.html">Single Job</a></li>
-                                                <li><a href="job-details.html">Job Details</a></li>
-                                                <li><a href="candidates.html">Candidates</a></li>
-                                                <li><a href="resume.html">Resume</a></li>
-                                                <li><a href="blog.html">Blog Page</a></li>
-                                                <li><a href="blog-details.html">Blog Details</a></li>
-                                                <li><a href="contact.html">Contact Us</a></li>
+                                                <li><a href="job-board.php">Job Board</a></li>
+                                                <li><a href="single-job-post.php">Single Job</a></li>
+                                                <li><a href="job-details.php">Job Details</a></li>
+                                                <li><a href="candidates.php">Candidates</a></li>
+                                                <li><a href="resume.php">Resume</a></li>
+                                                <li><a href="blog.php">Blog Page</a></li>
+                                                <li><a href="blog-details.php">Blog Details</a></li>
+                                                <li><a href="contact.php">Contact Us</a></li>
                                             </ul>
                                         </li>
-                                        <!-- <li><a href="blog.html">Blog</a>
+                                        <!-- <li><a href="blog.php">Blog</a>
                                             <ul class="dropdown">
-                                                <li><a href="blog-details.html">Blog Details</a></li>
-                                            </ul> -->
-                                        <!-- </li> -->
-                                        <li><a href="contact.html">Contact</a></li>
+                                                <li><a href="blog-details.php">Blog Details</a></li>
+                                            </ul>
+                                        </li> -->
+                                        <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </nav>
                                 <div class="login-btn">
@@ -140,38 +140,38 @@
                                 <div class="mobile-menu">
                                     <nav id="dropdown">
                                         <ul>
-                                            <li><a href="index.html">HOME</a>
+                                            <li><a href="index.php">HOME</a>
                                                 <!-- <ul>
-                                                    <li><a href="index.html">Home Version One</a></li>
-                                                    <li><a href="index-2.html">Home Version Two</a></li>
-                                                    <li><a href="index-3.html">Home Box Layout</a></li>
+                                                    <li><a href="index.php">Home Version One</a></li>
+                                                    <li><a href="index-2.php">Home Version Two</a></li>
+                                                    <li><a href="index-3.php">Home Box Layout</a></li>
                                                 </ul>
                                             </li> -->
-                                            <li><a href="job-board.html">Job</a>
+                                            <li><a href="job-board.php">Job</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="single-job-post.html">Single Job</a></li>
-                                                    <li><a href="job-details.html">Job Details</a></li>
+                                                    <li><a href="single-job-post.php">Single Job</a></li>
+                                                    <li><a href="job-details.php">Job Details</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="about.html">About</a></li>
+                                            <li><a href="about.php">About</a></li>
                                             <li><a href="#">Page</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="job-board.html">Job Board</a></li>
-                                                    <li><a href="single-job-post.html">Single Job</a></li>
-                                                    <li><a href="job-details.html">Job Details</a></li>
-                                                    <li><a href="candidates.html">Candidates</a></li>
-                                                    <li><a href="resume.html">Resume</a></li>
-                                                    <li><a href="blog.html">Blog Page</a></li>
-                                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                                    <li><a href="contact.html">Contact</a></li>
+                                                    <li><a href="job-board.php">Job Board</a></li>
+                                                    <li><a href="single-job-post.php">Single Job</a></li>
+                                                    <li><a href="job-details.php">Job Details</a></li>
+                                                    <li><a href="candidates.php">Candidates</a></li>
+                                                    <li><a href="resume.php">Resume</a></li>
+                                                    <li><a href="blog.php">Blog Page</a></li>
+                                                    <li><a href="blog-details.php">Blog Details</a></li>
+                                                    <li><a href="contact.php">Contact</a></li>
                                                 </ul>
                                             </li>
-                                            <!-- <li><a href="blog.html">Blog</a>
+                                            <!-- <li><a href="blog.php">Blog</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="blog-details.html">Blog Details</a></li>
+                                                    <li><a href="blog-details.php">Blog Details</a></li>
                                                 </ul>
                                             </li> -->
-                                            <li><a href="contact.html">Contact</a></li>
+                                            <li><a href="contact.php">Contact</a></li>
                                         </ul>
                                     </nav>
                                 </div>
@@ -188,11 +188,11 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="breadcrumb-text">
-                                <h2 class="text-center">Job Details</h2>
+                                <h2 class="text-center">Create Resume</h2>
                                 <div class="breadcrumb-bar">
                                     <ul class="breadcrumb text-center m-0">
-                                        <li><a href="index.html">Home</a></li>
-                                        <li>Job Details</li>
+                                        <li><a href="index.php">Home</a></li>
+                                        <li>Resume</li>
                                     </ul>
                                 </div>
                             </div>
@@ -201,68 +201,148 @@
                 </div>
             </div>
             <!--End of Breadcrumb Banner Area-->
-            <!--Start of Single Job Post Area-->
-            <div class="single-job-post-area ptb-130 ptb-sm-60">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <form action="#">
-                                <div class="single-job-content">
-                                    <div class="area-title">
-                                        <div class="single-job-post">
-                                             <div class="img-icon">
-                                                <img src="images/company-logo/1.png" alt="">
+                <!--Start of Single Job Post Area-->
+                <div class="single-job-post-area ptb-130 ptb-sm-60">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-8 mr-auto ml-auto">
+                                <form action="#">
+                                    <div class="single-job-content">
+                                        <div class="title"><span>Profile</span></div>
+                                        <div class="single-job-form">
+                                            <div class="single-info mb-14 fix">
+                                                <label class="uppercase pull-left m-0">photo</label>
+                                                <div class="uploader fix pull-left fileupload">
+                                                    <input id="fileupload" name="fileupload" type="file">
+                                                    <span class="filename">Upload your company logo</span>            
+                                                    <span class="action"><i class="zmdi zmdi-folder"></i>Browse</span>    
+                                                </div>
                                             </div>
-                                            <div class="address">
-                                                <h6>Hiring Online English Teachers</h6>
-                                                <p>Publisher : Company Name</p>
-                                                <p>In : Educational</p>
-                                                <p>Date : 14.09.2018</p>
-                                                <p>Location : Dhaka</p>
+                                            <div class="single-info pb-14">
+                                                <label for="f_name" class="uppercase pull-left m-0">First Name</label>
+                                                <div class="form-box fix">
+                                                    <input type="text" id="f_name" name="f_name" placeholder="Please enter your first name">
+                                                </div>
                                             </div>
-                                            <div class="button-box"><a href="#" class="button button-black">APPLY NOW</a></div>
-                                        </div> 
-                                    </div>
-                                    <div class="title"><span>job description</span></div>
-                                    <div class="single-job-form">
-                                        <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exerc ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occae cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolore laudantium, totam rem aperiam, eaque ipsa quae ab illo </p>
-                                    </div>
-                                    <div class="title"><span>Job Benefits</span></div>
-                                    <div class="single-job-form">
-                                        <div class="single-info mb-14">
-                                            <span class="mark-icon block pl-27">Some form,t the my have suffered alteration in some form,andomised words</span>
-                                            <span class="mark-icon block pl-27">believable.available, but the majority have sufferederation in some</span>
-                                            <span class="mark-icon block pl-27">There are many variations of passages of Lorem Ipsum available, but</span>
-                                            <span class="mark-icon block pl-27">Some form,t the my have suffered alteration in some form,andomised words</span>
-                                            <span class="mark-icon block pl-27">believable.available, but the majority have sufferederation in some</span>
-                                            <span class="mark-icon block pl-27">There are many variations of passages of Lorem Ipsum available, but</span>
+                                            <div class="single-info pb-14">
+                                                <label for="m_name" class="uppercase pull-left m-0">Middle name</label>
+                                                <div class="form-box fix">
+                                                    <input type="text" id="m_name" name="m_name" placeholder="Please enter your middle name">
+                                                </div>
+                                            </div>
+                                            <div class="single-info">
+                                                <label for="l_name" class="uppercase pull-left m-0">last name</label>
+                                                <div class="form-box fix">
+                                                    <input type="text" id="l_name" name="l_name" placeholder="Please enter your last name">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="title"><span>Contact Information</span></div>
+                                        <div class="single-job-form">
+                                            <div class="single-info mb-14">
+                                                <label for="country" class="uppercase pull-left m-0">country</label>
+                                                <div class="form-box fix">
+                                                    <input type="text" id="country" name="country" placeholder="Please enter your country name">
+                                                </div>
+                                            </div>
+                                            <div class="single-info mb-14">
+                                                <label for="city" class="uppercase pull-left m-0">city</label>
+                                                <div class="form-box fix">
+                                                    <input type="text" id="city" name="city" placeholder="Please enter your city name">
+                                                </div>
+                                            </div>
+                                            <div class="single-info mb-14">
+                                                <label for="address" class="uppercase pull-left m-0">address</label>
+                                                <div class="form-box fix">
+                                                    <input type="text" id="address" name="address" placeholder="Please enter your address">
+                                                </div>
+                                            </div>
+                                            <div class="single-info mb-14">
+                                                <label for="phone" class="uppercase pull-left m-0">phone</label>
+                                                <div class="form-box fix">
+                                                    <input type="text" id="phone" name="phone" placeholder="Please enter your phone number">
+                                                </div>
+                                            </div>
+                                            <div class="single-info mb-14">
+                                                <label for="email" class="uppercase pull-left m-0">email</label>
+                                                <div class="form-box fix">
+                                                    <input type="text" id="email" name="email" placeholder="Please enter your email">
+                                                </div>
+                                            </div>
+                                            <div class="single-info mb-14">
+                                                <label for="website" class="uppercase pull-left m-0">website</label>
+                                                <div class="form-box fix">
+                                                    <input type="text" id="website" name="website" placeholder="Please enter your website">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="title"><span>Biography</span></div>
+                                        <div class="single-job-form">
+                                            <div class="single-info mb-14 fix">
+                                                <label class="uppercase pull-left m-0">description</label>
+                                                <div class="desc fix">
+                                                    <textarea name="textarea" class="fix textarea" cols="30" rows="10" placeholder="Please enter description"></textarea>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="title"><span>Education</span></div>
+                                        <div class="single-job-form">
+                                            <div class="single-info mb-14">
+                                                <label for="school_name" class="uppercase pull-left m-0">school name</label>
+                                                <div class="form-box fix">
+                                                    <input type="text" id="school_name" name="school_name" placeholder="Please enter your school name">
+                                                </div>
+                                            </div>
+                                            <div class="single-info mb-14">
+                                                <label for="school_name" class="uppercase pull-left m-0">degree</label>
+                                                <div class="form-box fix">
+                                                    <input type="text" id="degree" name="degree" placeholder="Please enter your degree">
+                                                </div>
+                                            </div>
+                                            <div class="single-info mb-14 fix">
+                                                <label class="uppercase pull-left m-0">description</label>
+                                                <div class="desc fix">
+                                                    <textarea name="textarea" class="fix small textarea" cols="30" rows="10" placeholder="Please enter description"></textarea>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="title"><span>Experience</span></div>
+                                        <div class="single-job-form mb-0">
+                                            <div class="single-info pb-14">
+                                                <label for="title" class="uppercase pull-left m-0">Job Title</label>
+                                                <div class="form-box fix">
+                                                    <input type="text" id="title" name="title" placeholder="Enter your title">
+                                                </div>
+                                            </div>
+                                            <div class="single-info mb-14">
+                                                <label for="date_from" class="uppercase pull-left m-0">date from</label>
+                                                <div class="form-box fix">
+                                                    <input type="text" id="date_from" name="date_from" placeholder="Please enter date">
+                                                </div>
+                                            </div>
+                                            <div class="single-info mb-14">
+                                                <label for="date_to" class="uppercase pull-left m-0">date to</label>
+                                                <div class="form-box fix">
+                                                    <input type="text" id="date_to" name="date_to" placeholder="Please enter date">
+                                                </div>
+                                            </div>
+                                            <div class="single-info fix">
+                                                <label class="uppercase pull-left m-0">description </label>
+                                                <div class="desc fix">
+                                                    <textarea name="textarea" class="fix small textarea" cols="30" rows="10" placeholder="Please enter description"></textarea>
+                                                    <div class="resubtn mt-40">
+                                                        <a href="#" class="button button-medium-box">save resume</a>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
-                                    <div class="title"><span>job Requirements</span></div>
-                                    <div class="single-job-form">
-                                        <div class="single-info mb-14">
-                                            <span class="number block"><span>1.</span>Some form,t the my have suffered alteration in some form,andomised words</span>
-                                            <span class="number block"><span>2.</span>believable.available, but the majority have sufferederation in some</span>
-                                            <span class="number block"><span>3.</span>There are many variations of passages of Lorem Ipsum available, but</span>
-                                            <span class="number block"><span>4.</span>Some form,t the my have suffered alteration in some form,andomised words</span>
-                                            <span class="number block"><span>5.</span>believable.available, but the majority have sufferederation in some</span>
-                                            <span class="number block"><span>6.</span>There are many variations of passages of Lorem Ipsum available, but</span>
-                                        </div>
-                                    </div>
-                                     <div class="title"><span>how to apply</span></div>
-                                    <div class="single-job-form">
-                                        <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exerc ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate</p>
-                                    </div>
-                                    <div class="buttonback">
-                                        <a href="#" class="button button-large-box lg-btn mr-20">back</a>
-                                    </div>
-                                </div>
-                            </form>    
+                                </form>    
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <!--End of Single Job Post Area-->
+                <!--End of Single Job Post Area-->
             <!--Start of Footer Widget-area-->
             <footer class="footer-area">
                 <div class="footer-top bg-opacity-dark-blue-90 ptb-60">
@@ -323,7 +403,7 @@
                                     <h3 class="text-white mb-21">Keyword By Jobs</h3>
                                     <ul class="footer-list">
                                         <li><a href="#">Graphic Designer</a></li>
-                                        <li><a href="#">HTML Designer</a></li>
+                                        <li><a href="#">php Designer</a></li>
                                         <li><a href="#">WP Developer</a></li>
                                         <li><a href="#">Joomla Developer</a></li>
                                         <li><a href="#">Content Writer</a></li>
@@ -476,5 +556,5 @@
         
     </body>
 
-<!-- Mirrored from preview.hasthemes.com/jobhere-v1/job-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 May 2023 06:43:58 GMT -->
-</html>
+<!-- Mirrored from preview.hasthemes.com/jobhere-v1/resume.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 May 2023 06:44:03 GMT -->
+</php>
