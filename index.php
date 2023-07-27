@@ -1,7 +1,7 @@
-<!doctype html>
-<html class="no-js" lang="en">
+<!doctype php>
+<php class="no-js" lang="en">
 
-<!-- Mirrored from preview.hasthemes.com/jobhere-v1/index-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 May 2023 06:43:58 GMT -->
+<!-- Mirrored from preview.hasthemes.com/jobhere-v1/index-3.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 May 2023 06:43:58 GMT -->
 
 <head>
     <meta charset="utf-8">
@@ -88,7 +88,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-6 col-lg-3">
-                            <div class="logo"><a href="index.html"><img src="images/logo/logo.png" alt="JobHere"></a>
+                            <div class="logo"><a href="index.php"><img src="images/logo/logo.png" alt="JobHere"></a>
                             </div>
                         </div>
                         <div class="col-sm-6 col-lg-9">
@@ -97,9 +97,9 @@
                                     <ul class="main-menu text-right">
                                         <li><a href="index.php">Home</a>
                                             <!-- <ul class="dropdown">
-                                                <li><a href="index.html">Home Version One</a></li>
-                                                <li><a href="index-2.html">Home Version Two</a></li>
-                                                <li><a href="index-3.html">Home Box Layout</a></li>
+                                                <li><a href="index.php">Home Version One</a></li>
+                                                <li><a href="index-2.php">Home Version Two</a></li>
+                                                <li><a href="index-3.php">Home Box Layout</a></li>
                                             </ul> -->
                                         </li>
                                         <li><a href="job-board.php">Jobs</a>
@@ -121,12 +121,12 @@
                                                 <li><a href="contact.php">Contact Us</a></li>
                                             </ul>
                                         </li>
-                                        <!-- <li><a href="blog.html">Blog</a>
+                                        <!-- <li><a href="blog.php">Blog</a>
                                             <ul class="dropdown">
-                                                <li><a href="blog-details.html">Blog Details</a></li>
+                                                <li><a href="blog-details.php">Blog Details</a></li>
                                             </ul>
                                         </li> -->
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </nav>
                                 <div class="login-btn">
@@ -196,7 +196,7 @@
                         <img src="images/slider/2.jpg" alt="" title="#slider-1-caption1" />
                         <img src="images/slider/1.jpg" alt="" title="#slider-1-caption2" />
                     </div>
-                    <div id="slider-1-caption1" class="nivo-html-caption nivo-caption">
+                    <div id="slider-1-caption1" class="nivo-php-caption nivo-caption">
                         <div class="banner-content slider-1">
                             <div class="container">
                                 <div class="row">
@@ -224,7 +224,7 @@
                             </div>
                         </div>
                     </div>
-                    <div id="slider-1-caption2" class="nivo-html-caption nivo-caption">
+                    <div id="slider-1-caption2" class="nivo-php-caption nivo-caption">
                         <div class="banner-content slider-2">
                             <div class="container">
                                 <div class="row">
@@ -766,7 +766,7 @@
                                 </a>
                             </div>
                             <div class="blog-text">
-                                <h4><a href="blog-details.html">Standard blog post.</a></h4>
+                                <h4><a href="blog-details.php">Standard blog post.</a></h4>
                                 <div class="blog-post-info">
                                     <span>Feb 13.</span>
                                     <span>ADMIN NAME</span>
@@ -785,7 +785,7 @@
                                 </a>
                             </div>
                             <div class="blog-text">
-                                <h4><a href="blog-details.html">Standard blog post.</a></h4>
+                                <h4><a href="blog-details.php">Standard blog post.</a></h4>
                                 <div class="blog-post-info">
                                     <span>Feb 13.</span>
                                     <span>ADMIN NAME</span>
@@ -804,7 +804,7 @@
                                 </a>
                             </div>
                             <div class="blog-text">
-                                <h4><a href="blog-details.html">Standard blog post.</a></h4>
+                                <h4><a href="blog-details.php">Standard blog post.</a></h4>
                                 <div class="blog-post-info">
                                     <span>Feb 13.</span>
                                     <span>ADMIN NAME</span>
@@ -823,7 +823,7 @@
                                 </a>
                             </div>
                             <div class="blog-text">
-                                <h4><a href="blog-details.html">Standard blog post.</a></h4>
+                                <h4><a href="blog-details.php">Standard blog post.</a></h4>
                                 <div class="blog-post-info">
                                     <span>Feb 13.</span>
                                     <span>ADMIN NAME</span>
@@ -842,7 +842,7 @@
                                 </a>
                             </div>
                             <div class="blog-text">
-                                <h4><a href="blog-details.html">Standard blog post.</a></h4>
+                                <h4><a href="blog-details.php">Standard blog post.</a></h4>
                                 <div class="blog-post-info">
                                     <span>Feb 13.</span>
                                     <span>ADMIN NAME</span>
@@ -861,7 +861,7 @@
                                 </a>
                             </div>
                             <div class="blog-text">
-                                <h4><a href="blog-details.html">Standard blog post.</a></h4>
+                                <h4><a href="blog-details.php">Standard blog post.</a></h4>
                                 <div class="blog-post-info">
                                     <span>Feb 13.</span>
                                     <span>ADMIN NAME</span>
@@ -937,7 +937,7 @@
                                     <h3 class="text-white mb-21">Keyword By Jobs</h3>
                                     <ul class="footer-list">
                                         <li><a href="#">Graphic Designer</a></li>
-                                        <li><a href="#">HTML Designer</a></li>
+                                        <li><a href="#">php Designer</a></li>
                                         <li><a href="#">WP Developer</a></li>
                                         <li><a href="#">Joomla Developer</a></li>
                                         <li><a href="#">Content Writer</a></li>
@@ -1108,6 +1108,6 @@
 
 </body>
 
-<!-- Mirrored from preview.hasthemes.com/jobhere-v1/index-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 May 2023 06:43:58 GMT -->
+<!-- Mirrored from preview.hasthemes.com/jobhere-v1/index-3.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 May 2023 06:43:58 GMT -->
 
-</html>
+</php>
