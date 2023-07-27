@@ -81,7 +81,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- Header Top End -->
+                <!-- Header Top Start -->
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-6 col-lg-3">
@@ -99,22 +99,22 @@
                                             </ul> -->
                                         </li>
                                         <li><a href="job-board.php">Jobs</a>
-                                            <ul class="dropdown">
+                                            <!-- <ul class="dropdown">
                                                 <li><a href="single-job-post.php">Single Job</a></li>
                                                 <li><a href="job-details.php">Job Details</a></li>
-                                            </ul>
+                                            </ul> -->
                                         </li>
                                         <li><a href="about.php">About</a></li>
                                         <li><a href="#">Pages</a>
                                             <ul class="dropdown">
-                                                <li><a href="job-board.php">Job Board</a></li>
+												<!-- <li><a href="job-board.php">Job Board</a></li> -->
                                                 <li><a href="single-job-post.php">Single Job</a></li>
                                                 <li><a href="job-details.php">Job Details</a></li>
-                                                <li><a href="candidates.php">Candidates</a></li>
-                                                <li><a href="resume.php">Resume</a></li>
-                                                <li><a href="blog.php">Blog Page</a></li>
-                                                <li><a href="blog-details.php">Blog Details</a></li>
-                                                <li><a href="contact.php">Contact Us</a></li>
+                                        		<li><a href="candidates.php">Candidates</a></li>
+                                        		<li><a href="resume.php">Resume</a></li>
+                                                <!-- <li><a href="blog.php">Blog Page</a></li> -->
+                                                <!-- <li><a href="blog-details.php">Blog Details</a></li> -->
+                                                <!-- <li><a href="contact.php">Contact Us</a></li> -->
                                             </ul>
                                         </li>
                                         <!-- <li><a href="blog.php">Blog</a>
@@ -126,8 +126,10 @@
                                     </ul>
                                 </nav>
                                 <div class="login-btn">
-                                    <a class="modal-view button" href="#" data-toggle="modal" data-target="#register">Register</a>
-                                    <a class="modal-view button" href="#" data-toggle="modal" data-target="#productModal">Login</a>
+                                    <a class="modal-view button" href="#" data-toggle="modal"
+                                        data-target="#register">Register</a>
+                                    <a class="modal-view button" href="#" data-toggle="modal"
+                                        data-target="#productModal">Login</a>
                                 </div>
                             </div>
                         </div>
@@ -142,36 +144,36 @@
                                     <nav id="dropdown">
                                         <ul>
                                             <li><a href="index.php">HOME</a>
-                                                <ul>
-                                                    <li><a href="index.php">Home Version One</a></li>
+                                                <!-- <ul>
+													<li><a href="index.php">Home Version One</a></li>
                                                     <li><a href="index-2.php">Home Version Two</a></li>
                                                     <li><a href="index-3.php">Home Box Layout</a></li>
-                                                </ul>
+                                                </ul> -->
                                             </li>
                                             <li><a href="job-board.php">Job</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="single-job-post.php">Single Job</a></li>
-                                                    <li><a href="job-details.php">Job Details</a></li>
-                                                </ul>
+                                                <!-- <ul class="sub-menu">
+													<li><a href="single-job-post.php">Single Job</a></li>
+													<li><a href="job-details.php">Job Details</a></li>
+                                                </ul> -->
                                             </li>
                                             <li><a href="about.php">About</a></li>
                                             <li><a href="#">Page</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="job-board.php">Job Board</a></li>
+                                                    <!-- <li><a href="job-board.php">Job Board</a></li> -->
                                                     <li><a href="single-job-post.php">Single Job</a></li>
                                                     <li><a href="job-details.php">Job Details</a></li>
                                                     <li><a href="candidates.php">Candidates</a></li>
                                                     <li><a href="resume.php">Resume</a></li>
-                                                    <li><a href="blog.php">Blog Page</a></li>
+                                                    <!-- <li><a href="blog.php">Blog Page</a></li>
                                                     <li><a href="blog-details.php">Blog Details</a></li>
-                                                    <li><a href="contact.php">Contact</a></li>
+                                                    <li><a href="contact.php">Contact</a></li> -->
                                                 </ul>
                                             </li>
-                                            <li><a href="blog.php">Blog</a>
+                                            <!-- <li><a href="blog.php">Blog</a>
                                                 <ul class="sub-menu">
                                                     <li><a href="blog-details.php">Blog Details</a></li>
                                                 </ul>
-                                            </li>
+                                            </li> -->
                                             <li><a href="contact.php">Contact</a></li>
                                         </ul>
                                     </nav>
