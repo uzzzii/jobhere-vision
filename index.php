@@ -95,30 +95,30 @@
                             <div class="pull-right header-menu">
                                 <nav id="primary-menu">
                                     <ul class="main-menu text-right">
-                                        <li><a href="index.html">Home</a>
+                                        <li><a href="index.php">Home</a>
                                             <!-- <ul class="dropdown">
                                                 <li><a href="index.html">Home Version One</a></li>
                                                 <li><a href="index-2.html">Home Version Two</a></li>
                                                 <li><a href="index-3.html">Home Box Layout</a></li>
                                             </ul> -->
                                         </li>
-                                        <li><a href="job-board.html">Jobs</a>
+                                        <li><a href="job-board.php">Jobs</a>
                                             <ul class="dropdown">
-                                                <li><a href="single-job-post.html">Single Job</a></li>
-                                                <li><a href="job-details.html">Job Details</a></li>
+                                                <li><a href="single-job-post.php">Single Job</a></li>
+                                                <li><a href="job-details.php">Job Details</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="about.html">About</a></li>
+                                        <li><a href="about.php">About</a></li>
                                         <li><a href="#">Pages</a>
                                             <ul class="dropdown">
-                                                <li><a href="job-board.html">Job Board</a></li>
-                                                <li><a href="single-job-post.html">Single Job</a></li>
-                                                <li><a href="job-details.html">Job Details</a></li>
-                                                <li><a href="candidates.html">Candidates</a></li>
-                                                <li><a href="resume.html">Resume</a></li>
-                                                <li><a href="blog.html">Blog Page</a></li>
-                                                <li><a href="blog-details.html">Blog Details</a></li>
-                                                <li><a href="contact.html">Contact Us</a></li>
+                                                <li><a href="job-board.php">Job Board</a></li>
+                                                <li><a href="single-job-post.php">Single Job</a></li>
+                                                <li><a href="job-details.php">Job Details</a></li>
+                                                <li><a href="candidates.php">Candidates</a></li>
+                                                <li><a href="resume.php">Resume</a></li>
+                                                <!-- <li><a href="blog.php">Blog Page</a></li> -->
+                                                <li><a href="blog-details.php">Blog Details</a></li>
+                                                <li><a href="contact.php">Contact Us</a></li>
                                             </ul>
                                         </li>
                                         <!-- <li><a href="blog.html">Blog</a>
@@ -147,38 +147,38 @@
                                 <div class="mobile-menu">
                                     <nav id="dropdown">
                                         <ul>
-                                            <li><a href="index.html">HOME</a>
+                                            <li><a href="index.php">HOME</a>
                                                 <!-- <ul>
-                                                    <li><a href="index.html">Home Version One</a></li>
-                                                    <li><a href="index-2.html">Home Version Two</a></li>
-                                                    <li><a href="index-3.html">Home Box Layout</a></li>
+                                                    <li><a href="index.php">Home Version One</a></li>
+                                                    <li><a href="index-2.php">Home Version Two</a></li>
+                                                    <li><a href="index-3.php">Home Box Layout</a></li>
                                                 </ul> -->
                                             </li>
-                                            <li><a href="job-board.html">Job</a>
+                                            <li><a href="job-board.php">Job</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="single-job-post.html">Single Job</a></li>
-                                                    <li><a href="job-details.html">Job Details</a></li>
+                                                    <li><a href="single-job-post.php">Single Job</a></li>
+                                                    <li><a href="job-details.php">Job Details</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="about.html">About</a></li>
+                                            <li><a href="about.php">About</a></li>
                                             <li><a href="#">Page</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="job-board.html">Job Board</a></li>
-                                                    <li><a href="single-job-post.html">Single Job</a></li>
-                                                    <li><a href="job-details.html">Job Details</a></li>
-                                                    <li><a href="candidates.html">Candidates</a></li>
-                                                    <li><a href="resume.html">Resume</a></li>
-                                                    <li><a href="blog.html">Blog Page</a></li>
-                                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                                    <li><a href="contact.html">Contact</a></li>
+                                                    <li><a href="job-board.php">Job Board</a></li>
+                                                    <li><a href="single-job-post.php">Single Job</a></li>
+                                                    <li><a href="job-details.php">Job Details</a></li>
+                                                    <li><a href="candidates.php">Candidates</a></li>
+                                                    <li><a href="resume.php">Resume</a></li>
+                                                    <li><a href="blog.php">Blog Page</a></li>
+                                                    <li><a href="blog-details.php">Blog Details</a></li>
+                                                    <li><a href="contact.php">Contact</a></li>
                                                 </ul>
                                             </li>
-                                            <!-- <li><a href="blog.html">Blog</a>
+                                            <!-- <li><a href="blog.php">Blog</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="blog-details.html">Blog Details</a></li>
+                                                    <li><a href="blog-details.php">Blog Details</a></li>
                                                 </ul>
                                             </li> -->
-                                            <li><a href="contact.html">Contact</a></li>
+                                            <li><a href="contact.php">Contact</a></li>
                                         </ul>
                                     </nav>
                                 </div>
