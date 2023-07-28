@@ -127,12 +127,12 @@
                                         <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </nav>
-                                <div class="login-btn">
+                                <!-- <div class="login-btn">
                                     <a class="modal-view button" href="#" data-toggle="modal"
                                         data-target="#register">Register</a>
                                     <a class="modal-view button" href="#" data-toggle="modal"
                                         data-target="#productModal">Login</a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
