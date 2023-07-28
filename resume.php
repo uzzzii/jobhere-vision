@@ -1,4 +1,4 @@
-<!doctype php>
+<!doctype html>
 <php class="no-js" lang="en">
     
 <!-- Mirrored from preview.hasthemes.com/jobhere-v1/resume.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 May 2023 06:44:03 GMT -->
