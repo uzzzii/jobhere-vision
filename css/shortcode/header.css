@@ -7,7 +7,7 @@ NOTE: This is Header style file. All Header related style included in this file.
 /*header top*/
 .header-top {
   align-items: center;
-  background: #26ae61 none repeat scroll 0 0;
+  background: #17202A none repeat scroll 0 0;
   display: flex;
   height: 60px;
   transition: all 0.3s ease-in-out 0s;
@@ -55,7 +55,7 @@ NOTE: This is Header style file. All Header related style included in this file.
 }
 .social-links a:last-child {margin-right: 0;}
 .social-links a i {font-size: 14px; line-height: 31px;}
-.social-links a:hover{background: #ffffff; color: #26ae61}
+.social-links a:hover{background: #ffffff; color: #17202A}
 /*menu style */
 .header-area{z-index: 10; position: relative;}
 nav#primary-menu {display: inline-block; float: left;}
@@ -70,10 +70,10 @@ nav#primary-menu {display: inline-block; float: left;}
   text-transform: uppercase;
 }
 .main-menu > li:hover > a{
-    color:#26ae61;
+    color:#17202A;
 }
 .main-menu >li> a::after {
-  background: #26ae61 none repeat scroll 0 0;
+  background: #17202A none repeat scroll 0 0;
   bottom: 0;
   content: "";
   height:0px;
@@ -279,5 +279,5 @@ ul.dropdown > li:hover > ul.inside-menu {
   overflow-y: scroll;
 }
 .mean-container .mean-nav ul li a:hover,.mean-container .mean-nav ul li:hover > a{
-  color: #26ae61;
+  color: #17202A;
 }

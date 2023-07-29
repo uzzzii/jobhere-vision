@@ -43,7 +43,7 @@ NOTE: This is Slider style file. All Slider related style included in this file.
   width: 100%;
 }
 .select button {
-  background: #26ae61 none repeat scroll 0 0;
+  background: #17202A none repeat scroll 0 0;
   color: #fff;
   font-size: 14px;
   font-weight: 600;
@@ -134,7 +134,7 @@ p.sub-title {
     line-height: 50px;
 }
 .button.slider-btn {
-  background: #26ae61 none repeat scroll 0 0;
+  background: #17202A none repeat scroll 0 0;
   border-radius: 0;
   font-family: "montserratsemi_bold";
   font-size: 12px;
