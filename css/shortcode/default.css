@@ -894,7 +894,7 @@ a.button, button {
     cursor: pointer;
 }
 a.button:after {
-  background: #26ae61;
+  background: #17202A;
   content: "";
   height: 100%;
   left: 0;
@@ -943,7 +943,7 @@ button:hover:after{ width: 100% }
   border-radius: 0;
   line-height: 43px;
   padding: 0 49px;
-  background: #26ae61;
+  background: #17202A;
 }
 .button.button-large-box:after, .button.button-medium-box:after{
     background: rgba(0, 0, 0, 0.2) none repeat scroll 0 0;
@@ -1366,7 +1366,7 @@ i.zmdi {font-size: 14px;}
   border-radius: 100%;
 }
 .owl-dot.active span {
-  background: #26ae61 none repeat scroll 0 0;
+  background: #17202A none repeat scroll 0 0;
 }
 .owl-dot {
   display: inline-block;

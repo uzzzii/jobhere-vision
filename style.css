@@ -58,8 +58,8 @@
   font-family: montserratregular;
   transition: all 0.3s ease-in-out;
 }
-.category-item:hover {;
-  background: #26ae61 none repeat scroll 0 0;
+.category-item:hover {
+  background: #17202A none repeat scroll 0 0;
   box-shadow: 0 0 5px 1px #ddd;
 }
 .category-item:hover > h5, .category-item:hover > h6{
@@ -87,9 +87,9 @@
   border-left: none;
 }
 .post-tab a.active,.post-tab a:hover{
-    background:#26ae61;
+    background:#17202A;
     color: #fff;
-    border-color: #26ae61;
+    border-color: #17202A;
 }
 .post-tab a:last-child{
 
@@ -260,7 +260,7 @@ a.button.large-button {line-height: 33px; padding: 0 30px}
   margin-bottom: 35px;
 }
 .blog-text > h4:hover a{
-    color: #26ae61;
+    color: #17202A;
 }
 
 .box-hover a {display: block; position: relative;}
@@ -367,7 +367,7 @@ a.button.large-button {line-height: 33px; padding: 0 30px}
     margin-top: 0;
 }
 .category-item2:hover{
-    border-right:3px solid #26ae61;
+    border-right:3px solid #17202A;
 }
 .all-job-post2 .single-job-post {
   align-items: center;
@@ -403,7 +403,7 @@ a.button.large-button {line-height: 33px; padding: 0 30px}
   margin-bottom: 7px;
 }
 .all-job-post2 .address > p {
-  color: #26ae61;
+  color: #17202A;
   margin-bottom: 0;
 }
 .loaction {
@@ -441,8 +441,8 @@ a.button.large-button {line-height: 33px; padding: 0 30px}
   width: 18px;
 }
 .post-tab2 a.active:before{
-    background: #26ae61;
-    border-color: #26ae61;
+    background: #17202A;
+    border-color: #17202A;
 }
 .work-shop2{
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
@@ -451,7 +451,7 @@ a.button.large-button {line-height: 33px; padding: 0 30px}
   position: relative;
 }
 .img-icon > span {
-  background: #26ae61 none repeat scroll 0 0;
+  background: #17202A none repeat scroll 0 0;
   border-radius: 100%;
   color: #fff;
   font-size: 16px;
@@ -503,7 +503,7 @@ a.button.large-button {line-height: 33px; padding: 0 30px}
   color: #333;
 }
 .breadcrumb-bar a:hover{
-    color: #26ae61;
+    color: #17202A;
 }
 .abt-img {
   padding-right: 30px;
@@ -516,8 +516,8 @@ a.button.large-button {line-height: 33px; padding: 0 30px}
   padding-bottom: 5px;
 }
 .abt-content > h4 span {
-  border-bottom: 1px solid #26ae61;
-  color: #26ae61;
+  border-bottom: 1px solid #17202A;
+  color: #17202A;
   padding-bottom: 3px;
     font-family: montserratbold;
 }
@@ -538,7 +538,7 @@ a.button.large-button {line-height: 33px; padding: 0 30px}
 }
 
 .team-content {
-  background: #26ae61 none repeat scroll 0 0;
+  background: #17202A none repeat scroll 0 0;
   bottom: -86px;
   padding: 20px 10px;
   position: absolute;
@@ -578,7 +578,7 @@ a.button.large-button {line-height: 33px; padding: 0 30px}
   text-align: center;
 }
 .loadmorebtn .button {
-  background: #26ae61 none repeat scroll 0 0;
+  background: #17202A none repeat scroll 0 0;
   border-radius: 0;
   display: inline-block;
   height: 50px;
@@ -605,7 +605,7 @@ a.button.large-button {line-height: 33px; padding: 0 30px}
   text-transform: capitalize;
 }
 .title > span {
-  border-bottom: 2px solid #26ae61;
+  border-bottom: 2px solid #17202A;
   padding-bottom: 10px;
 }
 .single-job-form {
@@ -619,7 +619,7 @@ a.button.large-button {line-height: 33px; padding: 0 30px}
   left: 0;
   position: absolute;
   top: -1px;
-  color: #26ae61;
+  color: #17202A;
 }
 .number > span {
   display: inline-block;
@@ -757,7 +757,7 @@ textarea.textarea.small{height: 120px}
   color: #fff;
 }
 .canditates-area .address p span{
-  color: #26ae61;
+  color: #17202A;
 }
 
 /*----------------------------------------*/
@@ -777,7 +777,7 @@ textarea.textarea.small{height: 120px}
   line-height: 21px;
 }
 .sidebar-widget-title h4 span {
-  border-bottom: 2px solid #26ae61;
+  border-bottom: 2px solid #17202A;
   padding-bottom: 9px;
 }
 .search-container input {
@@ -793,7 +793,7 @@ textarea.textarea.small{height: 120px}
   position: relative;
 }
 .search-container button {
-  background: #26ae61 none repeat scroll 0 0;
+  background: #17202A none repeat scroll 0 0;
   height: 40px;
   line-height: 40px;
   padding: 0 15px;
@@ -807,7 +807,7 @@ textarea.textarea.small{height: 120px}
 .recent-post-item h5 {font-family: "montserratregular";}
 .recent-post-item span {color: #616161;}
 .recent-post-item h5 a:hover{
-  color: #26ae61;
+  color: #17202A;
 }
 .blog-post-info > span.l-text {font-size: 14px;}
 .blog-text > h5.l-text {font-size: 24px;}
@@ -823,7 +823,7 @@ textarea.textarea.small{height: 120px}
   padding: 0px 2px;
   line-height: 21px;
 }
-.tags > li a:hover {color: #26ae61;}
+.tags > li a:hover {color: #17202A;}
 .tags {display: inline-block;}
 .social-links {display: inline-block;}
 .tags-and-links .social-links a {
@@ -833,7 +833,7 @@ textarea.textarea.small{height: 120px}
   padding: 0;
 }
 .tags-and-links .social-links a i {font-size: 14px; line-height: 17px;}
-.tags-and-links .social-links a:hover {background: transparent; color: #26ae61; }
+.tags-and-links .social-links a:hover {background: transparent; color: #17202A; }
 .comments {color: #4c4c4c;}
 h4.title {
   color: #4c4c4c;
@@ -881,7 +881,7 @@ span.comment-time {padding-right: 3px; position: relative;}
 .single-comment.comment-reply {padding-left: 131px;}
 .comments .single-comment:last-child {margin-bottom: 0;}
 .reply > a {
-  color: #26ae61;
+  color: #17202A;
 }
 /*----------------------------------------*/
 /*  12. Register/Login  Page
@@ -991,7 +991,7 @@ p.panel-title {
   width: 15px;
 }
 .form-pop-up-content button {
-  background: #26ae61 none repeat scroll 0 0;
+  background: #17202A none repeat scroll 0 0;
   color: #ffffff;
   font-size: 14px;
   line-height: 43px;
@@ -1037,11 +1037,11 @@ p.panel-title {
   width: 40px;
   line-height: 40px;
   border-radius: 100%;
-  border: 1px solid #26ae61;
-  color: #26ae61;
+  border: 1px solid #17202A;
+  color: #17202A;
 }
 .single-contact-info:hover .single-contact-icon i{
-    background: #26ae61;
+    background: #17202A;
     color:#fff;
 }
 .single-contact-text {
@@ -1076,7 +1076,7 @@ p.panel-title {
   font-size: 14px;
   line-height: 50px;
   padding: 0 42px;
-  background: #26ae61;
+  background: #17202A;
 }
 .contact-form{
   padding-left: 100px;
@@ -1098,7 +1098,7 @@ p.panel-title {
 }
 .followus .social-links > a:hover{
     background: transparent;
-    color: #26ae61;
+    color: #17202A;
 }
 .followus .social-links a i {
   font-size: 20px;
